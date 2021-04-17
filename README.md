@@ -2,8 +2,8 @@
 
 * 🔭 I’m currently working on iOS Development
 * 🌱 I’m currently learning SwiftUI
-* 👯 I’m looking to collaborate on Machine Learning Projects
-* 🤔 I’m looking for help with Web Development
+* 👯 I’m looking to collaborate on Web Development
+* 🤔 I’m looking for help with Machine Learning applications
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=curet&layout=compact)](https://github.com/curet/github-readme-stats)
 
