@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 * 📐 I love UI/UX Design. It is really interesting to start with a blank page and create something out of it.
-* 🖥 Web Development and Responsive Design really fascinates me, I'm currently improving my Front-End Development skills with HTML, CSS and JavaScript before jumping to a specific framework
-* 📱 Mobile Development is one of those cool things I always wanted to learn and I've been working bit by bit on my spear time to improve my skills on some productivity apps I've been working with.
+* 🖥 Web Development and Responsive Design really fascinates me. I'm currently improving my Front-End Development skills with HTML, CSS and JavaScript before jumping to a specific framework
+* 📱 Mobile Development is one of those cool things I always wanted to learn and I've been working bit by bit on my spear time to improve my skills on some productivity apps I've been working on with.
 * 🔠 Last but not least, Data Science and Machine Learning is a skill that helps me evaluate, test and research ideas with more automated outcomes, in this area animals and fire detections have been both I have worked and search in even though I have just touched the surface.
 * 📊 In combination of my skills of the my favorite areas in Data Science is Data Visualization and the idea of simplify abstract data into something that can be easily understood.
 
